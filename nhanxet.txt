@@ -1,3 +1,4 @@
+DNS Server sập mạng là như thế nào ? Xác suất xảy ra ? -> Phần tại sao là blockchain ( khuyết điểm + mô hình ) 
 Blockchain có thể tấn công được ?
 DNS có nhiều hệ thống trên quốc gia mà, nó decentralied ?
 Minh họa phải dễ nhất. 
