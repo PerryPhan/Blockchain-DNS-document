@@ -1,0 +1,16 @@
+Blockchain có thể tấn công được ?
+DNS có nhiều hệ thống trên quốc gia mà, nó decentralied ?
+Minh họa phải dễ nhất. 
+Kịch bản phải dễ hiểu. 
+Làm sao đơn giản.
+Lướt qua một số slide ( giới thiệu sơ , đánh vào trọng tâm )
+Minh họa xử lý dưới 
+Liên tưởng đến ứng dụng thật
+Minh họa cái mới theo cách có sẵn.
+--------------------------------------------
+Chỉnh lại slide :
++ Mang tính so sánh DNS cũ và DNS Blockchain
++ Minh họa cái hệ thống theo mô hình mạng
++ Nêu mục đích của kịch bản
++ Bỏ bớt những cái không cần thiết 
++ Nhiều hơn 2,3 slide nhưng nói ngắn gọn
