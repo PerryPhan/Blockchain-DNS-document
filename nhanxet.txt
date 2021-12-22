@@ -1,5 +1,5 @@
 Blockchain có thể tấn công được ?
-DNS có nhiều hệ thống trên quốc gia mà, nó decentralied ?
+DNS có nhiều hệ thống trên quốc gia mà, nó decentralied ? - Xong
 Minh họa phải dễ nhất. 
 Kịch bản phải dễ hiểu. 
 Làm sao đơn giản.
@@ -13,7 +13,11 @@ Chỉnh lại slide :
 + Minh họa cái hệ thống theo mô hình mạng [xây dựng]
 + Nêu mục đích của kịch bản
 + Giải thích được những cái khuyết điểm của DNS 
-+ Bỏ bớt những cái không cần thiết 
++ Bỏ bớt những cái không cần thiết  
 + Nhiều hơn 2,3 slide nhưng nói ngắn gọn
-⏱⏱ Còn 3 ngày nữa -> 24/12 
-Mai tạo mô hình cho DNS Server, chỉnh sửa mô hình Blockchain
+⏱⏱ Còn 2 ngày nữa -> 24/12 
+TODO : 
+Chứng minh được những đặc điểm đó 
+Vẽ lại xây dựng 
+Ghi mục tiêu của kịch bản thực nghiệm
+Vẽ lại kịch bản thực nghiệm
