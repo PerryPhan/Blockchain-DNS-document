@@ -6,18 +6,23 @@ Mục tiêu của đề tài : ...
 2) Thân bài : 🎆 10 phút 
 Đề tài nói về 
 
-Tại sao là blockchain ?
+Tại sao là blockchain ? 5 phút
 Hiện DNS truyền thống : 
 + Điểm mạnh:
-	-  Quy mô vừa và lớn nằm ở hệ thống DNS mà toàn cầu đang sử dụng hiện tại, xuất hiện từ năm 1998 và hoạt động ổn định tới ngày nay * 23 năm.
-	-  Server sẽ nắm hàng loạt các zone file đại diện cho các tên miền, 
+	-1  Quy mô vừa và lớn nằm ở hệ thống DNS mà toàn cầu đang sử dụng hiện tại, xuất hiện từ năm 1998 và hoạt động ổn định tới ngày nay * 23 năm.
+	-2  Server sẽ nắm hàng loạt các zone file đại diện cho các tên miền, 
 		Zone file trong đề tài sẽ có 3 loại 
 		A : Address : Cho bản ghi quy định giá trị IPv4 trả về.
 		SOA : Start of Authority : Thông tin xác nhận từ máy chủ.
 		NS : Nameserver : Dùng để chỉ định cách gọi cho tên miền phụ.
-	-  Sau khi phân giải thành công ở lần đầu, DNS cache sẽ lưu trữ cho lần sử dụng sau. 
-	-  ICANN hay còn gọi là Internet Corporation for Assigned Names and Numbers ( Tập đoàn cấp số + tên miền ), trụ sở tại California, Hoa kì.
+	-3  Sau khi phân giải thành công ở lần đầu, DNS cache sẽ lưu trữ cho lần sử dụng sau. 
+	-4  ICANN hay còn gọi là Internet Corporation for Assigned Names and Numbers ( Tập đoàn cấp số + tên miền ), trụ sở tại California, Hoa kì.
 + Điểm yếu :
-	- Theo trang Help Net Security thì hiện nay có đến 72% doanh nghiệp đã hứng chịu cuộc tấn công DNS năm 2021
-	** Xem cái video what happend when registry domain
-Hiện DNSChain
+	-1 Theo bài viết trên trang web Continuity Central.com, tổn thất cho ngành tài chính là gần 1.1 triệu đô trên một cuộc tấn công, mà 91% doanh nghiệp tài chính đã gặp ít nhất 1 lần, con số trở nên khổng lồ.
+	-3 Có tổng cộng 13 Root Server trên toàn thế giới, 
+	-4 DNS truyền thống đang phát triển từng ngày và vấn đề này là vấn đề chung của các hệ thống lớn.
+Hiện DNSChain:
++ Điểm mạnh:
+	 
++ Điểm yếu :
+	-4 Có tin tức nói rằng 
